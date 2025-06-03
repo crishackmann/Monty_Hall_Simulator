@@ -1,0 +1,5 @@
+{
+  "name": "Monty Hall Problem Simulator",
+  "description": "A web application demonstrating the Monty Hall probability puzzle. Users can play the game, choose to switch or stay with their initial door pick, and see statistics for each strategy to understand the underlying probabilities.",
+  "requestFramePermissions": []
+}
